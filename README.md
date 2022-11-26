@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - Blog : https://song-ift.tistory.com/
-- Notion : https://www.notion.so/developeshg/Develope-SHG-998a392e99f64690aaa433e32e980e0f
+- Notion : https://www.notion.so/developeshg
