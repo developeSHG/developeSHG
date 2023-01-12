@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Notion : https://www.notion.so/developeshg
 
 Wemade Play Co., Ltd.
-<br/>Game Client Programmer ing ~
+<br/>Game Client Programmer (2021.03 ~ ing)
