@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - Blog : https://song-ift.tistory.com/
 - Notion : https://www.notion.so/developeshg
+
+Co.WemadePlay Client Programmer ing~
