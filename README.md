@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Blog : https://song-ift.tistory.com/
-- Notion : https://www.notion.so/developeshg
+- Notion : https://developeshg.notion.site/Develope-SHG-998a392e99f64690aaa433e32e980e0f
 
 Wemade Play Co., Ltd.
 <br/>Game Client Programmer (2021.03 ~ ing)
