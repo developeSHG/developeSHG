@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Portfolio : https://drive.google.com/file/d/1baZZtOCbyY12n5JYkzbfSlx8AbZ_LN1w/view
+- Portfolio : https://drive.google.com/file/d/1baZZtOCbyY12n5JYkzbfSlx8AbZ_LN1w/view?usp=drive_link
 - Blog : https://song-ift.tistory.com/
 - Notion : https://developeshg.notion.site/Develope-SHG-998a392e99f64690aaa433e32e980e0f
 
