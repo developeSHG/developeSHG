@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <hr size="5">
 
 Wemade Play Co., Ltd.
-<br/>Game Client Programmer (2021.03 ~ ing)
+<br/>Game Client Programmer (2021.03 ~ 2024.08)
