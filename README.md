@@ -24,4 +24,4 @@ Wemade Play Co., Ltd.
 <br/>Game Client Programmer (2021.03 ~ 2024.08)
 
 <br/>Nexon Neople.
-<br/>Client-Based Technology Programmer (2025.03 ~ )
+<br/>Client-Based Technology Programmer (2025.03 ~ ing)
