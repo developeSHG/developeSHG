@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 <hr size="5">
 
-**Nexon Neople.**
-<br/>Client-Based Technology Programmer (2025.03 ~ ing)
+**Nexon Neople.** (2025.03 ~ ing)
+<br/>Project : Dungeon & Fighter Mobile
+<br/>Position : Client-Based Technology Programmer
 
-<br/>**Wemade Play Co., Ltd.**
-<br/>Game Client Programmer (2021.03 ~ 2024.08)
+<br/>**Wemade Play Co., Ltd.** (2021.03 ~ 2024.08)
+<br/>Project : AniPang4
+<br/>Position : Game Client Programmer
