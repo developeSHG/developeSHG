@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <hr size="5">
 
-<br/>Nexon Neople.
+**Nexon Neople.**
 <br/>Client-Based Technology Programmer (2025.03 ~ ing)
 
-Wemade Play Co., Ltd.
+<br/>**Wemade Play Co., Ltd.**
 <br/>Game Client Programmer (2021.03 ~ 2024.08)
