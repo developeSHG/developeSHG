@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <br/>Project : Dungeon & Fighter Mobile
 <br/>Position : Client-Based Technology Programmer
 
-<br/>**Wemade Play Co., Ltd.** (2021.03 ~ 2024.08)
+**Wemade Play Co., Ltd.** (2021.03 ~ 2024.08)
 <br/>Project : AniPang4
 <br/>Position : Game Client Programmer
