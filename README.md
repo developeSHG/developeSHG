@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Blog : https://song-ift.tistory.com/
-- Youtube : https://www.youtube.com/@DevelopeSHG
+- YouTube : https://www.youtube.com/@DevelopeSHG
 - Insta : https://www.instagram.com/soooooooooooooong/
 
 <hr size="5">
