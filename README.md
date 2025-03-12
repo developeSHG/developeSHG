@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Insta : https://www.instagram.com/soooooooooooooong/
+- **Insta** : https://www.instagram.com/soooooooooooooong/
 - Blog : https://song-ift.tistory.com/
 - YouTube : https://www.youtube.com/@DevelopeSHG
 - LinkedIn : https://www.linkedin.com/in/developeshg
